@@ -19,10 +19,11 @@ h3 a {
     padding: 26px 20px 26px 20px;
 }
 
-a:hover {
+h3 a:hover {
     background-color: grey;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
 }
-
 
 /*Navigational pages SPACING and BORDER*/
 .flexing {
@@ -74,3 +75,21 @@ img{
     text-decoration: none;
 }
 
+.thumbnail a:hover {
+    background-color: grey;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
+}
+/*contact page*/
+.info {
+    font-size:20px;
+}
+
+.alignment {
+    display: inline-block;
+    padding-right: 30px;
+}
+
+.more{
+    
+}
